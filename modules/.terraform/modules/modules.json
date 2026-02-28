@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"eks","Source":"./modules/eks","Dir":""},{"Key":"iam","Source":"./modules/iam","Dir":""},{"Key":"nodegroups","Source":"./modules/nodegroups","Dir":""},{"Key":"vpc","Source":"./modules/vpc","Dir":""}]}
